@@ -3,7 +3,6 @@
 This is a simple NodeJs web app built on top of express.js framework.
 
 ## Setup
-
 Setup is as simple as:
 
 ```bash
@@ -13,3 +12,4 @@ npm run test
 # Run the app
 npm run start
 ```
+#updated
