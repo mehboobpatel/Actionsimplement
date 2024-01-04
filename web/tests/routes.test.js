@@ -21,4 +21,3 @@ describe('New Endpoint', () => {
     expect(res.statusCode).toEqual(201)
   })
 })
-
